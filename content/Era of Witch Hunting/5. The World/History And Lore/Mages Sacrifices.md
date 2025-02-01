@@ -1,0 +1,4 @@
+---
+aliases:
+  - Arcane Sacrifices
+---
