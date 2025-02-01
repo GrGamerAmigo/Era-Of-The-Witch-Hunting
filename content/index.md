@@ -1,4 +1,7 @@
 ---
+title: Welcome to My Notes
+---
+
 ## 📖 Welcome to My Knowledge Base!
 
 This is my personal collection of notes, thoughts, and ideas. Here, you'll find insights on various topics that I have explored. Feel free to browse and discover!
