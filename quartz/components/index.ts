@@ -20,8 +20,6 @@ import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
-// Add the import and export for the MobileExplorerMenu component here
-import MobileExplorerMenu from "./MobileExplorerMenu"; // import it
 
 export {
   ArticleTitle,
@@ -46,5 +44,4 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
-  MobileExplorerMenu, // export it here
 }
