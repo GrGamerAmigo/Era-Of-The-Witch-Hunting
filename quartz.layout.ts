@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import MobileExplorerMenu from "./components/MobileExplorerMenu";  // Import the MobileExplorerMenu
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -47,4 +48,24 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
+}
+
+export const defaultContentPageLayout: PageLayout = {
+  beforeBody: [
+    Component.Breadcrumbs(),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+    Component.TagList(),
+  ],
+  left: [
+    // Add the MobileExplorerMenu here (only visible on mobile)
+    Component.MobileOnly(<MobileExplorerMenu />),
+    Component.Search(),
+    Component.Darkmode(),
+  ],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
 }
