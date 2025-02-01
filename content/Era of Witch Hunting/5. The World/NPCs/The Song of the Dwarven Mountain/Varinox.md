@@ -2,7 +2,6 @@
 aliases:
   - The Mage
 ---
-
 ## Basic Information
 - **Race**: Mage (unknown race)
 - **Alignment**: Lawful Evil
