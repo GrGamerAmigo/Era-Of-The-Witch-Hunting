@@ -9,7 +9,7 @@ aliases:
 - **Occupation**: Adventurer, companion of [[Meleborn|Drow Ranger]].
 
 ## Background
-Miriel is a skilled warrior who, along with her companion [[Meleborn|Drow Ranger]], is being hunted by an assassin hired by [[Alahar|The Angel]]. She and Meleborn sought refuge in a log cabin after the mine collapse in [[Copper Mine Village|Mining Village]].
+Miriel is a skilled warrior who, along with her companion [[Meleborn|Drow Ranger]], is being hunted by an assassin hired by [[Alahar|The Angel]]. She and Meleborn sought refuge in a log cabin after the mine collapse in Copper Mine Village.
 
 ### Key Events
 - **Mine Rescue**: Helped the players rescue trapped miners and fought off an assassin.

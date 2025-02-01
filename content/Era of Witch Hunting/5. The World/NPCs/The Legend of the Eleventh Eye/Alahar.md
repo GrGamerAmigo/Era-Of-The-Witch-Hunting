@@ -8,7 +8,7 @@ aliases:
 - **Alignment**: Unknown
 
 ## Background
-Alahar is a mysterious angelic figure who appeared in the [[Copper Mine Village|Mining Village]] tavern, speaking to [[Meleborn|Drow Ranger]] and [[Miriel|Elf Warrior]]. He has hired an assassin to kill them after they declined his "proposition."
+Alahar is a mysterious angelic figure who appeared in the Copper Mine Village tavern, speaking to [[Meleborn|Drow Ranger]] and [[Miriel|Elf Warrior]]. He has hired an assassin to kill them after they declined his "proposition."
 
 ### Key Events
 - **Tavern Encounter**: Spoke to Meleborn and Miriel, mentioning a "proposition" they had declined.
