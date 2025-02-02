@@ -13,10 +13,11 @@ The assassin was hired by [[Alahar|The Angel]] to kill [[Meleborn|Drow Ranger]] 
 
 ### Key Events
 - **Mine Attack**: Appeared in the mine, attacked Miriel, and escaped.
-- **Current Status**: Still at large, posing a threat to Meleborn, Miriel, and their allies.
+- **Dothir’s Tower**: Killed [[Miriel|Elf Warrior]] in [[Dothir’s Tower|Gnome Mage’s Tower]] during Session 5.
+- **Current Status**: Still at large, posing a threat to Meleborn and the party.
 
 ## Role in the Campaign
-- **Plot Hook**: His continued presence adds tension and danger to the journey to [[Dothir|Gnome Mage]]’s tower.
+- **Plot Hook**: His continued presence adds tension and danger to the party’s journey.
 
 ---
-tags: #npc #assassin #session_1
+tags: #npc #assassin #session_5
